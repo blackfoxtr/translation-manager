@@ -1,6 +1,6 @@
 <?php
 
-namespace Kenepa\TranslationManager\Http\Middleware;
+namespace Gsarigul84\TranslationManager\Http\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\App;

@@ -1,13 +1,13 @@
 <?php
 
-namespace Kenepa\TranslationManager\Pages;
+namespace Gsarigul84\TranslationManager\Pages;
 
 use Filament\Forms\Components\Select;
 use Filament\Forms\Components\Textarea;
 use Filament\Forms\Concerns\InteractsWithForms;
 use Filament\Forms\Contracts\HasForms;
 use Filament\Resources\Pages\Page;
-use Kenepa\TranslationManager\Resources\LanguageLineResource;
+use Gsarigul84\TranslationManager\Resources\LanguageLineResource;
 use Spatie\TranslationLoader\LanguageLine;
 
 class QuickTranslate extends Page implements HasForms

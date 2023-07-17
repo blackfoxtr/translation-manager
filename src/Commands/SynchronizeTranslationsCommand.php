@@ -1,9 +1,9 @@
 <?php
 
-namespace Kenepa\TranslationManager\Commands;
+namespace Gsarigul84\TranslationManager\Commands;
 
 use Illuminate\Console\Command;
-use Kenepa\TranslationManager\Actions\SynchronizeAction;
+use Gsarigul84\TranslationManager\Actions\SynchronizeAction;
 
 class SynchronizeTranslationsCommand extends Command
 {

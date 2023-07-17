@@ -1,6 +1,6 @@
 <?php
 
-namespace Kenepa\TranslationManager\Filters;
+namespace Gsarigul84\TranslationManager\Filters;
 
 use Filament\Forms\Components\Select;
 use Filament\Tables\Filters\Filter;

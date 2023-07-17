@@ -1,6 +1,6 @@
 <?php
 
-namespace Kenepa\TranslationManager\Resources;
+namespace Gsarigul84\TranslationManager\Resources;
 
 use Filament\Forms\Components\Repeater;
 use Filament\Forms\Components\Select;
@@ -16,10 +16,10 @@ use Filament\Tables\Columns\TextColumn;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Gate;
-use Kenepa\TranslationManager\Filters\NotTranslatedFilter;
-use Kenepa\TranslationManager\Pages\QuickTranslate;
-use Kenepa\TranslationManager\Resources\LanguageLineResource\Pages\EditLanguageLine;
-use Kenepa\TranslationManager\Resources\LanguageLineResource\Pages\ListLanguageLines;
+use Gsarigul84\TranslationManager\Filters\NotTranslatedFilter;
+use Gsarigul84\TranslationManager\Pages\QuickTranslate;
+use Gsarigul84\TranslationManager\Resources\LanguageLineResource\Pages\EditLanguageLine;
+use Gsarigul84\TranslationManager\Resources\LanguageLineResource\Pages\ListLanguageLines;
 use Spatie\TranslationLoader\LanguageLine;
 
 class LanguageLineResource extends Resource

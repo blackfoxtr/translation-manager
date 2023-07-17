@@ -1,6 +1,6 @@
 <?php
 
-namespace Kenepa\TranslationManager\Helpers;
+namespace Gsarigul84\TranslationManager\Helpers;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;

@@ -1,11 +1,11 @@
 <?php
 
-namespace Kenepa\TranslationManager\Actions;
+namespace Gsarigul84\TranslationManager\Actions;
 
 use Filament\Pages\Actions\Action;
 use Filament\Pages\Page;
-use Kenepa\TranslationManager\Commands\SynchronizeTranslationsCommand;
-use Kenepa\TranslationManager\Helpers\TranslationScanner;
+use Gsarigul84\TranslationManager\Commands\SynchronizeTranslationsCommand;
+use Gsarigul84\TranslationManager\Helpers\TranslationScanner;
 use Spatie\TranslationLoader\LanguageLine;
 
 class SynchronizeAction extends Action

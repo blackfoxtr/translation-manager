@@ -1,14 +1,14 @@
 <?php
 
-namespace Kenepa\TranslationManager;
+namespace Gsarigul84\TranslationManager;
 
 use Exception;
 use Filament\Facades\Filament;
 use Filament\PluginServiceProvider;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\View\View;
-use Kenepa\TranslationManager\Commands\SynchronizeTranslationsCommand;
-use Kenepa\TranslationManager\Resources\LanguageLineResource;
+use Gsarigul84\TranslationManager\Commands\SynchronizeTranslationsCommand;
+use Gsarigul84\TranslationManager\Resources\LanguageLineResource;
 use Spatie\LaravelPackageTools\Package;
 
 class TranslationManagerProvider extends PluginServiceProvider
