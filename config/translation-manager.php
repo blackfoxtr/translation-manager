@@ -50,4 +50,27 @@ return [
     */
 
     'navigation_group' => null,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Hide groups
+    |--------------------------------------------------------------------------
+    |
+    | You can  choose to hide certain groups from the translation manager.
+    |
+    */
+
+    'hide_groups' => [ ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Remove unused translations
+    |--------------------------------------------------------------------------
+    |
+    | You can choose to remove unused translations on the fly.
+    |
+    */
+
+    'remove_unused' => true,
+
 ];
