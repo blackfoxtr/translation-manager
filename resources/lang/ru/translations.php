@@ -1,0 +1,25 @@
+<?php
+
+return [
+  'translation-navigation-label' => 'переводов Менеджер',
+  'translation-label' => 'переводов|Переводы',
+  'group' => 'группа переводчиков',
+  'key' => 'ключевое слово',
+  'preview-in-your-lang' => 'показать на своём языке :lang',
+  'synchronize' => 'Синхронизировать',
+  'synchronization-success' => ':count Синхронизация успешно совершена!',
+  'synchronization-deleted' => ':count удалено',
+  'preview' => 'предварительный просмотр',
+  'preview-description' => 'Пример на текущем языке. (:lang)',
+  'add-translation-button' => 'Добавить перевод',
+  'translation-language' => 'язык',
+  'translation-text' => 'Перевод текста',
+  'filter-not-translated' => 'Не переведено',
+  'quick-translate' => 'Быстрый перевод',
+  'quick-translate-select-locale' => 'Выбрать язык',
+  'quick-translate-translation-number' => 'До завершения процесса осталось :total переводов',
+  'quick-translate-skip' => 'Пропустить',
+  'quick-translate-enter' => '":lang" Введите для перевода:',
+  'quick-translate-save-and-continue' => 'Сохранить и продолжить',
+  'quick-translate-nothing' => 'Ничего не найдено к переводу!',
+];
